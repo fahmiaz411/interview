@@ -1,10 +1,11 @@
 package main
 
-import (
-	"interview/box"
-)
+import "interview/randomstr"
 
 func main() {
 	// prime.Prime()
-	box.Boxes()
+	// box.Boxes()
+	// carbohydrate.Carbohydrate()
+	// oddeven.OddEven()
+	randomstr.RandomStr()
 }
